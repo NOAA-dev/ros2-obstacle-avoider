@@ -5,6 +5,12 @@ This repository implements a **reactive obstacle avoidance system** for a custom
 
 The focus is on **behavior-based robotics**, using sector-based spatial reasoning instead of global planning.
 
+## 🎥 Demo Video
+
+[![Wall Follower Demo](https://img.youtube.com/vi/WW3UE0I_tV4/0.jpg)](https://youtu.be/WW3UE0I_tV4)
+
+▶ Click the image to watch the full 2-minute demonstration on YouTube.
+
 ---
 
 ## Key Features
